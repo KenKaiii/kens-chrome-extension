@@ -4,7 +4,10 @@ A production-ready Chrome Extension template using **Manifest V3**, **TypeScript
 
 **Author:** Ken Kai
 **YouTube:** [@kenkaidoesai](https://www.youtube.com/@kenkaidoesai)
-**Skool:** [www.skool.com/kenkai](https://www.skool.com/kenkai)
+**Free Skool community:** [skool.com/raid](https://www.skool.com/raid)
+
+> [!TIP]
+> **Want to build your own apps with AI?** A free 7-day build challenge and 20+ step-by-step projects are in my free community: **[skool.com/raid](https://www.skool.com/raid)**
 
 ## Features
 
